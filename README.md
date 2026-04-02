@@ -1,6 +1,3 @@
-Here’s a **more attractive, professional README.md** with badges, icons, and a modern GitHub style 👇
-
----
 
 # 💻 Backend Developer 🚀
 
