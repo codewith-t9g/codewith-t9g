@@ -100,15 +100,3 @@ Here’s a **more attractive, professional README.md** with badges, icons, and a
 
 💻 I enjoy debugging more than writing code 😄
 🚀 Always learning something new in backend development
-
----
-
-### ✨ Pro Tips
-
-✔ Replace `your-username` with your GitHub username
-✔ Add your real projects links
-✔ Keep updating regularly
-
----
-
-If you want, I can make this **next level 🔥 (with animations, typing effect, visitor counter, snake graph, etc.)**
