@@ -1,19 +1,21 @@
-
 # 💻 Backend Developer 🚀
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge&logo=server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-Expert-green?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/API-Development-orange?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Backend-Engineer-blue?style=for-the-badge&logo=server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-Specialist-green?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/API-Architecture-orange?style=for-the-badge&logo=fastapi"/>
 </p>
 
 ---
 
-## 👋 Hello, I'm Kaushik Kumar
+## 👋 About Me
 
-💡 Passionate Backend Developer who loves building **secure, scalable, and efficient systems**.
-🚀 Focused on **Node.js, APIs, and databases**.
-🎯 Goal: Become a **professional backend engineer**.
+Hi, I'm **Kaushik Kumar**, a dedicated **Backend Developer** focused on designing and building **secure, scalable, and high-performance systems**.
+
+* 💡 Strong interest in backend architecture and system design
+* ⚙️ Experienced in building RESTful APIs and database-driven applications
+* 🔐 Focused on security, authentication, and performance optimization
+* 🚀 Continuously learning and improving in backend technologies
 
 ---
 
@@ -45,25 +47,40 @@
 
 ---
 
-## 📁 Projects
+## 🗺️ Learning Roadmap
+
+<p align="center">
+  <a href="https://roadmap.sh/u/codewithrishi" target="_blank">
+    <img src="https://img.shields.io/badge/View-My%20Roadmap-0A66C2?style=for-the-badge&logo=roadmap.sh&logoColor=white"/>
+  </a>
+</p>
+
+📌 Track my backend learning journey here:
+👉 https://roadmap.sh/u/codewithrishi
+
+---
+
+## 📁 Featured Projects
 
 ### 🔹 REST API System
 
-✨ Built with **Node.js & Express**
-📦 CRUD operations
-🔗 MongoDB integration
+* Built scalable RESTful APIs using **Node.js & Express**
+* Implemented full **CRUD operations**
+* Integrated with **MongoDB**
+* Followed clean architecture and modular coding practices
 
 ---
 
 ### 🔹 Authentication System 🔐
 
-✅ User Login & Signup
-🔒 Password Hashing (bcrypt)
-🪪 JWT Authentication
+* Secure **User Signup & Login**
+* Implemented **JWT-based authentication**
+* Used **bcrypt** for password hashing
+* Applied best practices for session and token management
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%"/>
@@ -72,15 +89,7 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark"/>
-</p>
-
----
-
-## 📫 Connect With Me
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:your-email@example.com">
@@ -93,7 +102,9 @@
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Personal Note
 
-💻 I enjoy debugging more than writing code 😄
-🚀 Always learning something new in backend development
+* 💻 I enjoy solving complex backend problems and debugging systems
+* 🚀 Always exploring new technologies and improving my backend expertise
+
+---
